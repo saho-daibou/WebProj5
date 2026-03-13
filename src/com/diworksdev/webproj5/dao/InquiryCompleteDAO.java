@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.diworksdev.webproj5 .dto.InquiryDTO;
+import com.diworksdev.webproj5.dto.InquiryDTO;
 import com.diworksdev.webproj5.util.DBConnector;
 
 public class InquiryCompleteDAO {
